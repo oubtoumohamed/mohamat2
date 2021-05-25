@@ -1,0 +1,35 @@
+*{
+	direction: rtl;
+	text-align: right;
+}
+.float-end{
+	float: left !important;
+}
+.sidebar.collapsed {
+    margin-left: 0px;
+    margin-right: -260px;
+}
+.sidebar-nav{
+	padding: 0
+}
+
+.sidebar-dropdown .sidebar-link::before {
+    content: "🠐";
+    right: -14px;
+}
+.sidebar [data-bs-toggle="collapse"]::after {
+	right: 90%
+}
+.navbar-align {
+    margin-left: 0;
+}
+.navbar-collapse{
+	direction: ltr;
+}
+.navbar-collapse *{
+	direction: rtl;
+	text-align: right
+}
+.card-footer button{
+	margin-left: 15px;
+}

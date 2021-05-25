@@ -1,0 +1,31 @@
+<?php 
+return [
+    'module_name'  => 'Case',
+    'list_'  => 'List of Cases',
+    'casee'  => 'Case',
+    'casee_create'  => 'Add Case',
+    'casee_edit'  => 'Edit Case',
+    'casee_show'  => 'Show Case',
+    'description'  => 'Case',
+    'menu'  => 'Cases',
+
+
+    'number'  => 'Number',
+    'filenumber'  => 'File Number',
+    'acts'  => 'Acts',
+    'plaintiff'  => 'Plaintiff',
+    'accuesed'  => 'Accuesed',
+    'behalfof'  => 'On Behalf Of',
+    'court_id'  => 'Court',
+    'categorie_id'  => 'Category',
+    'refname'  => 'Reference Name',
+    'refmobile'  => 'Reference Mobile',
+    'lawyer_id'  => 'Lawyer',
+    'stage_id'  => 'Stage',
+    'receiving_date'  => 'Receiving Date',
+    'filing_date'  => 'Filing Date',
+    'hearing_date'  => 'Hearing Date',
+    'judgement_date'  => 'Judgement Date',
+    'description'  => 'Description',
+    'media_id'  => 'Media File',
+];
